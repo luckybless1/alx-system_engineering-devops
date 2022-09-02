@@ -1,1 +1,1 @@
-is a working directory
+Display the contents list of your current directory
